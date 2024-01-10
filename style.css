@@ -101,6 +101,10 @@ main {
     margin-bottom: 1rem;
 }
 
+.text {
+    width: 100%;
+}
+
 #tasks .task {
     display: flex;
     justify-content: space-between;
